@@ -2,3 +2,4 @@ NOM: John
 PRÉNOM: Doe
 DATE DE NAISSANCE: 24/03/1998
 ....
+<listing de mes hobbies>
